@@ -1,2 +1,2 @@
 # R-CNN (Region based Convolutional Neural Network)
-Take a so long time to train.
+This algorithm take a so long time to train.
